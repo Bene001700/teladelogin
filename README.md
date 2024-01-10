@@ -1,4 +1,4 @@
 Este repositório cóntem
 uma tela de login feito somente
-com html e css.
+com HTML5, CSS3 e Javascript.
 
